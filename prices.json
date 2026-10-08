@@ -1,0 +1,9 @@
+{
+  "read": "2026-10-08",
+  "source": "https://platform.kimi.ai/docs/pricing/chat",
+  "unit": "US dollars per million tokens, list price, before tax",
+  "models": [
+    {"id": "kimi-k2.6", "in": 0.95, "cached_in": 0.16, "out": 4.00, "context": 262144},
+    {"id": "kimi-k3", "in": 3.00, "cached_in": 0.30, "out": 15.00, "context": 1048576}
+  ]
+}
